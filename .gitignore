@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+pd-extraction-01/
+pdf-extraction-temporal/
